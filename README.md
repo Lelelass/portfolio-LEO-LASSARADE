@@ -1,5 +1,5 @@
 #Portfolio
 
-This is Léo Lassarade's first repository
+This is **Léo Lassarade**'s first repository
 
-Student at IT-högskolan - AI2021
+Student at IT-högskolan - *AI2021*
