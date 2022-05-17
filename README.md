@@ -30,7 +30,7 @@ Data analysis and training of different models with two different purposes:
 [Labb Machine Learning](https://github.com/Lelelass/Machine-learning-Lassarade/tree/master/labb_1)
 ## Deep learning
 
- :new: The freshest konlwedge !
+ :new: The freshest knowledge !
 Picture classification with preliminary EDA, using data-augmentation, CNN model-training, and Xception transfer-learning 
 
 [Labb deep learning](https://github.com/Lelelass/Deep-Learning-21/tree/master/Labb)
