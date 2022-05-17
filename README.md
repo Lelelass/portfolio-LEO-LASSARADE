@@ -1,11 +1,28 @@
 # Portfolio
 
-This is **Léo Lassarade**'s first repository
+Hello !, I'm  **Léo Lassarade**, AI and machine learning student at IT-högskolan - *AI2021*
 
-You can find my take on python exercices [here](https://github.com/Lelelass/python-programmering-LEO-LASSARADE)
+No surprise, here is **Python** all around. :snake::snake:
 
->You miss 100% of the shots you don’t take
->~~Wayne Gretzky~~
->-Michael Scott
+As a student, the most representative cornerstones of my programming journey are **labs**. At ITHS, labs allows us to answer problematics by coding from scratch. They are a mixture of comprehensive Jupyter notebook and python scripts designed to solve a specific set of requisites. This portfolio is for now sort of a list of Labs !
 
-Student at IT-högskolan - *AI2021*
+Here they are in chronological order:
+
+## Python-programmering
+
+Wrap up of the python course with an **OOP** knolwedge-check:
+
+[Labb 3 OOP](https://github.com/Lelelass/python-programmering-LEO-LASSARADE/tree/main/Labb_3)
+
+
+## Databehandling
+
+A data exploration for summarizing acquired skills on pandas, matplotib, seaborn , numpy
+
+[Labb 1 Covid data](https://github.com/Lelelass/Databehandling-21-LEO-LASSARADE/tree/main/Labb_1)
+
+## Machine Learning
+
+## Deep learning
+
+
