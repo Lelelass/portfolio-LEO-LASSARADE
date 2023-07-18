@@ -9,7 +9,7 @@ Just graduated as AI and machine learning developper at IT-högskolan developper
 My professional experience as a developper is deeply rooted in **Data Science.**
 Although, my current public projects are revolving around **Data Engeneering** and cloud (**Azure**). No intresting homemade Data Science projects without, I guess.
 
-Currently, i'm porting my examination work to Azure. It's about giving a structure for a Machine Learning model I have developped to do inference on live-streamed data.
+Currently, i'm porting my examination work to Azure. It's about giving a cloud structure for a Machine Learning model I have developped to do inference on live-streamed data.
 
 [A pipeline for real time ML inference over Trafiklab Data, managed by apache airflow](https://github.com/Lelelass/airflow-for-train-delay-prognostication-dataprocessing)
 
