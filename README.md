@@ -14,7 +14,7 @@ for real-time inference over streamed data.*) to Azure. It's about giving a clou
 
 The repo : [A pipeline for real time ML inference over Trafiklab Data, managed by apache airflow](https://github.com/Lelelass/airflow-for-train-delay-prognostication-dataprocessing)
 
-I'm commited to a maritime intelligence platform project. Repos are private, but it's Azure functions in the making (more :snake:).
+I'm commited to a maritime intelligence platform project. Repos are private, but it's **Azure functions** and **CosmosDB Mongo** in the making (more :snake:).
 
 ## As a student:
 The most representative cornerstones of my programming eduication were **labs**. At ITHS, labs allows us to answer problematics by coding from scratch. They are a mixture of comprehensive Jupyter notebook and python scripts designed to solve a specific set of requisites. 
