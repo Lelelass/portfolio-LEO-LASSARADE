@@ -12,7 +12,7 @@ Although, my current public projects are revolving around **Data Engeneering** a
 Currently, i'm porting my [examination work](https://github.com/Lelelass/portfolio-LEO-LASSARADE/blob/main/Ressources/LL-examination-project-AI21.pdf) (*Real-time train delay prediction in Skåne | A complete ML project with xgboost model development and pipelines
 for real-time inference over streamed data.*) to Azure. It's about giving a cloud structure for a Machine Learning model I have developped to do inference on live-streamed data.
 
-[A pipeline for real time ML inference over Trafiklab Data, managed by apache airflow](https://github.com/Lelelass/airflow-for-train-delay-prognostication-dataprocessing)
+The repo : [A pipeline for real time ML inference over Trafiklab Data, managed by apache airflow](https://github.com/Lelelass/airflow-for-train-delay-prognostication-dataprocessing)
 
 I'm commited to a maritime intelligence platform project. Repos are private, but it's Azure functions in the making (more :snake:).
 
