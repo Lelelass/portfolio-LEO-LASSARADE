@@ -1,7 +1,7 @@
 # Portfolio
 
 Hello ! I'm  **Léo Lassarade**,  
-Just graduated as AI and machine learning developper at IT-högskolan developper (YH) - *AI2021*
+Just graduated as AI and Machine Learning developper at IT-högskolan (YH) - *AI2021*
 
 ## Currently cooking :shallow_pan_of_food: :
 :snake: **Python** all around. :snake:
