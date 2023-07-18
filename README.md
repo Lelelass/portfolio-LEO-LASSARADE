@@ -3,19 +3,19 @@
 Hello ! I'm  **Léo Lassarade**,  
 Just graduated as AI and machine learning developper at IT-högskolan developper (YH) - *AI2021*
 
-## Currently cooking:
+## Currently cooking :shallow_pan_of_food: :
 :snake: **Python** all around. :snake:
 
-My professional experience as a developper is deeply rooted in Data Science.
-Although, my current public projects are revolving around Data Engeneering and cloud. No intresting homemade Data Science projects without, I guess.
+My professional experience as a developper is deeply rooted in **Data Science.**
+Although, my current public projects are revolving around **Data Engeneering** and cloud (**Azure**). No intresting homemade Data Science projects without, I guess.
 
-Currently, i'm porting my examination project to Azure. It's about giving a structure for a Machine Learning model I've developped to do inference on live-streamed data.
+Currently, i'm porting my examination work to Azure. It's about giving a structure for a Machine Learning model I have developped to do inference on live-streamed data.
 
 [A pipeline for real time ML inference over Trafiklab Data, managed by apache airflow](https://github.com/Lelelass/airflow-for-train-delay-prognostication-dataprocessing)
 
 I'm commited to a maritime intelligence platform project. Repos are private, but it's Azure functions in the making (more :snake:).
 
-## As a student
+## As a student:
 The most representative cornerstones of my programming eduication were **labs**. At ITHS, labs allows us to answer problematics by coding from scratch. They are a mixture of comprehensive Jupyter notebook and python scripts designed to solve a specific set of requisites. 
 
 Here they are in chronological order:
